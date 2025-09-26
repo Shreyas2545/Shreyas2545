@@ -1,3 +1,3 @@
 ## Hey, Shreyas here...
 
-Check out my portfolio to know more about me: [Shreyas Hadawale Portfolio](https://shreyashadawale.netlify.app)
+Check out my portfolio to know more about me: [shreyashadawale.netlify.app](https://shreyashadawale.netlify.app)
